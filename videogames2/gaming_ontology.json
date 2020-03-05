@@ -1,0 +1,129 @@
+{
+  "ontology": {
+    "brands": [
+      "atari",
+      "playstation",
+      "nintendo",
+      "xbox",
+      "pc",
+      "sega"
+    ],
+    "ds": [
+      "3ds",
+      "2ds",
+      "dsi",
+      "ds"
+    ],
+    "atari": [
+      "atari",
+      "2600"
+    ],
+    "playstation": [
+      "playstation",
+      "ps2",
+      "ps3",
+      "ps4",
+      "psp"
+    ],
+    "nintendo": [
+      "switch",
+      "nes",
+      "snes",
+      "n64",
+      "wii"
+    ],
+    "xbox": [
+      "xbox",
+      "360",
+      "one"
+    ],
+    "pc": [
+      "pc",
+      "laptop",
+      "computer",
+      "desktop"
+    ],
+    "sega": [
+      "dreamcast"
+    ],
+    "gameboy": [
+      "gameboy",
+      "color",
+      "advance"
+    ],
+    "genesis": [
+      "genesis",
+      "megadrive"
+    ],
+    "no": [
+      "no",
+      "nah",
+      "never",
+      "no way",
+      "get out",
+      "nope",
+      "not really"
+    ],
+    "yes": [
+      "yes",
+      "yeah",
+      "yea",
+      "sure",
+      "absolutely",
+      "of course",
+      "ye"
+    ],
+    "greetings": [
+      "hi",
+      "hello",
+      "good morning",
+      "good afternoon",
+      "good evening",
+      "hey",
+      "nice to meet you",
+      "good day"
+    ],
+    "negative_response": [
+      "no",
+      "don't like",
+      "do not like",
+      "dislike",
+      "sucks",
+      "bad",
+      "slow",
+      "annoying",
+      "old",
+      "awful",
+      "horrible",
+      "no good",
+      "terrible"
+    ],
+    "positive_response": [
+      "good",
+      "amazing",
+      "terrific",
+      "fast",
+      "new",
+      "great",
+      "fun",
+      "easy",
+      "fabulous",
+      "fantastic",
+      "wonderful"
+    ],
+    "genres": [
+      "rpg",
+      "role-playing",
+      "sports",
+      "racing",
+      "shooter",
+      "simulation",
+      "platform",
+      "action",
+      "fighting",
+      "puzzle",
+      "misc",
+      "strategy"
+    ]
+  }
+}
