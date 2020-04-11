@@ -1,14 +1,11 @@
 ## Emory Dialogue Manager - Student SocialBots
 
 For an undergraduate level computational linguistics course at Emory University,
-teams of 2 - 3 students were tasked with creating a 10-turn minimum socialbot on any technology-related
-topic of their choosing within two weeks, using the EmorySTDM python package developed
-by Emory NLP.
+teams of 2 - 4 students were instructed to create socialbots using the EmorySTDM python package developed by Emory NLP. Teams had between 2 and 4 weeks to create their socialbots, throughout various assignments.
 
 This repository contains these anonymized student submissions, which are independently
 executable (assuming installation of Python3.6+ and the EmorySTDM package). An overview of 
 each student submission is given below.
-
 
 
 
