@@ -1,0 +1,472 @@
+{
+  "trades": [
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Orlando Magic received forward James Ennis III from Philadelphia 76ers.",
+      "TEAM_ID": 1610612753,
+      "PLAYER_ID": 203516,
+      "Additional_Sort": 1610612755,
+      "GroupSort": "Trade 2019095"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Golden State Warriors received forward Andrew Wiggins from Minnesota Timberwolves.",
+      "TEAM_ID": 1610612744,
+      "PLAYER_ID": 203952,
+      "Additional_Sort": 1610612750,
+      "GroupSort": "Trade 2019096"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Minnesota Timberwolves received forward Omari Spellman from Golden State Warriors.",
+      "TEAM_ID": 1610612750,
+      "PLAYER_ID": 1629016,
+      "Additional_Sort": 1610612744,
+      "GroupSort": "Trade 2019096"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Minnesota Timberwolves received guard Jacob Evans from Golden State Warriors.",
+      "TEAM_ID": 1610612750,
+      "PLAYER_ID": 1628980,
+      "Additional_Sort": 1610612744,
+      "GroupSort": "Trade 2019096"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Minnesota Timberwolves received guard D'Angelo Russell from Golden State Warriors.",
+      "TEAM_ID": 1610612750,
+      "PLAYER_ID": 1626156,
+      "Additional_Sort": 1610612744,
+      "GroupSort": "Trade 2019096"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Atlanta Hawks received forward Skal Labissiere from Portland Trail Blazers.",
+      "TEAM_ID": 1610612737,
+      "PLAYER_ID": 1627746,
+      "Additional_Sort": 1610612757,
+      "GroupSort": "Trade 2019097"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Philadelphia 76ers received forward Glenn Robinson III from Golden State Warriors.",
+      "TEAM_ID": 1610612755,
+      "PLAYER_ID": 203922,
+      "Additional_Sort": 1610612744,
+      "GroupSort": "Trade 2019098"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Philadelphia 76ers received guard Alec Burks from Golden State Warriors.",
+      "TEAM_ID": 1610612755,
+      "PLAYER_ID": 202692,
+      "Additional_Sort": 1610612744,
+      "GroupSort": "Trade 2019098"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Denver Nuggets received guard Jordan McRae from Washington Wizards.",
+      "TEAM_ID": 1610612743,
+      "PLAYER_ID": 203895,
+      "Additional_Sort": 1610612764,
+      "GroupSort": "Trade 2019099"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Washington Wizards received guard Shabazz Napier from Denver Nuggets.",
+      "TEAM_ID": 1610612764,
+      "PLAYER_ID": 203894,
+      "Additional_Sort": 1610612743,
+      "GroupSort": "Trade 2019099"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Miami Heat received forward Solomon Hill from Memphis Grizzlies.",
+      "TEAM_ID": 1610612748,
+      "PLAYER_ID": 203524,
+      "Additional_Sort": 1610612763,
+      "GroupSort": "Trade 2019100"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Miami Heat received forward Jae Crowder from Memphis Grizzlies.",
+      "TEAM_ID": 1610612748,
+      "PLAYER_ID": 203109,
+      "Additional_Sort": 1610612763,
+      "GroupSort": "Trade 2019100"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Miami Heat received guard Andre Iguodala from Memphis Grizzlies.",
+      "TEAM_ID": 1610612748,
+      "PLAYER_ID": 2738,
+      "Additional_Sort": 1610612763,
+      "GroupSort": "Trade 2019100"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Minnesota Timberwolves received forward James Johnson from Miami Heat.",
+      "TEAM_ID": 1610612750,
+      "PLAYER_ID": 201949,
+      "Additional_Sort": 1610612748,
+      "GroupSort": "Trade 2019100"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Memphis Grizzlies received forward Justise Winslow from Miami Heat.",
+      "TEAM_ID": 1610612763,
+      "PLAYER_ID": 1626159,
+      "Additional_Sort": 1610612748,
+      "GroupSort": "Trade 2019100"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Memphis Grizzlies received guard Dion Waiters from Miami Heat.",
+      "TEAM_ID": 1610612763,
+      "PLAYER_ID": 203079,
+      "Additional_Sort": 1610612748,
+      "GroupSort": "Trade 2019100"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Memphis Grizzlies received center Gorgui Dieng from Minnesota Timberwolves.",
+      "TEAM_ID": 1610612763,
+      "PLAYER_ID": 203476,
+      "Additional_Sort": 1610612750,
+      "GroupSort": "Trade 2019100"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Houston Rockets received forward Bruno Caboclo from Memphis Grizzlies.",
+      "TEAM_ID": 1610612745,
+      "PLAYER_ID": 203998,
+      "Additional_Sort": 1610612763,
+      "GroupSort": "Trade 2019101"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Memphis Grizzlies received forward Jordan Bell from Houston Rockets.",
+      "TEAM_ID": 1610612763,
+      "PLAYER_ID": 1628395,
+      "Additional_Sort": 1610612745,
+      "GroupSort": "Trade 2019101"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "LA Clippers received forward Marcus Morris Sr. from New York Knicks.",
+      "TEAM_ID": 1610612746,
+      "PLAYER_ID": 202694,
+      "Additional_Sort": 1610612752,
+      "GroupSort": "Trade 2019102"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "LA Clippers received guard Isaiah Thomas from Washington Wizards.",
+      "TEAM_ID": 1610612746,
+      "PLAYER_ID": 202738,
+      "Additional_Sort": 1610612764,
+      "GroupSort": "Trade 2019102"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "New York Knicks received forward Maurice Harkless from LA Clippers.",
+      "TEAM_ID": 1610612752,
+      "PLAYER_ID": 203090,
+      "Additional_Sort": 1610612746,
+      "GroupSort": "Trade 2019102"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Washington Wizards received guard Jerome Robinson from LA Clippers.",
+      "TEAM_ID": 1610612764,
+      "PLAYER_ID": 1629010,
+      "Additional_Sort": 1610612746,
+      "GroupSort": "Trade 2019102"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Atlanta Hawks received center Dewayne Dedmon from Sacramento Kings.",
+      "TEAM_ID": 1610612737,
+      "PLAYER_ID": 203473,
+      "Additional_Sort": 1610612758,
+      "GroupSort": "Trade 2019103"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Sacramento Kings received forward Jabari Parker from Atlanta Hawks.",
+      "TEAM_ID": 1610612758,
+      "PLAYER_ID": 203953,
+      "Additional_Sort": 1610612737,
+      "GroupSort": "Trade 2019103"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Sacramento Kings received center Alex Len from Atlanta Hawks.",
+      "TEAM_ID": 1610612758,
+      "PLAYER_ID": 203458,
+      "Additional_Sort": 1610612737,
+      "GroupSort": "Trade 2019103"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Cleveland Cavaliers received center Andre Drummond from Detroit Pistons.",
+      "TEAM_ID": 1610612739,
+      "PLAYER_ID": 203083,
+      "Additional_Sort": 1610612765,
+      "GroupSort": "Trade 2019104"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Detroit Pistons received forward John Henson from Cleveland Cavaliers.",
+      "TEAM_ID": 1610612765,
+      "PLAYER_ID": 203089,
+      "Additional_Sort": 1610612739,
+      "GroupSort": "Trade 2019104"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-06T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Detroit Pistons received guard Brandon Knight from Cleveland Cavaliers.",
+      "TEAM_ID": 1610612765,
+      "PLAYER_ID": 202688,
+      "Additional_Sort": 1610612739,
+      "GroupSort": "Trade 2019104"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Atlanta Hawks received center Nene Hilario from Houston Rockets.",
+      "TEAM_ID": 1610612737,
+      "PLAYER_ID": 2403,
+      "Additional_Sort": 1610612745,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Denver Nuggets received guard Gerald Green from Houston Rockets.",
+      "TEAM_ID": 1610612743,
+      "PLAYER_ID": 101123,
+      "Additional_Sort": 1610612745,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Denver Nuggets received forward Noah Vonleh from Minnesota Timberwolves.",
+      "TEAM_ID": 1610612743,
+      "PLAYER_ID": 203943,
+      "Additional_Sort": 1610612750,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Denver Nuggets received guard Shabazz Napier from Minnesota Timberwolves.",
+      "TEAM_ID": 1610612743,
+      "PLAYER_ID": 203894,
+      "Additional_Sort": 1610612750,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Houston Rockets received forward Jordan Bell from Minnesota Timberwolves.",
+      "TEAM_ID": 1610612745,
+      "PLAYER_ID": 1628395,
+      "Additional_Sort": 1610612750,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Houston Rockets received forward Robert Covington from Minnesota Timberwolves.",
+      "TEAM_ID": 1610612745,
+      "PLAYER_ID": 203496,
+      "Additional_Sort": 1610612750,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Minnesota Timberwolves received guard Evan Turner from Atlanta Hawks.",
+      "TEAM_ID": 1610612750,
+      "PLAYER_ID": 202323,
+      "Additional_Sort": 1610612737,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Minnesota Timberwolves received forward Jarred Vanderbilt from Denver Nuggets.",
+      "TEAM_ID": 1610612750,
+      "PLAYER_ID": 1629020,
+      "Additional_Sort": 1610612743,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Minnesota Timberwolves received forward Juancho Hernangomez from Denver Nuggets.",
+      "TEAM_ID": 1610612750,
+      "PLAYER_ID": 1627823,
+      "Additional_Sort": 1610612743,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-02-05T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Minnesota Timberwolves received guard Malik Beasley from Denver Nuggets.",
+      "TEAM_ID": 1610612750,
+      "PLAYER_ID": 1627736,
+      "Additional_Sort": 1610612743,
+      "GroupSort": "Trade 2019093"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-25T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Dallas Mavericks received center Willie Cauley-Stein from Golden State Warriors.",
+      "TEAM_ID": 1610612742,
+      "PLAYER_ID": 1626161,
+      "Additional_Sort": 1610612744,
+      "GroupSort": "Trade 2019088"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-24T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Dallas Mavericks received center Justin Patton from Oklahoma City Thunder.",
+      "TEAM_ID": 1610612742,
+      "PLAYER_ID": 1628383,
+      "Additional_Sort": 1610612760,
+      "GroupSort": "Trade 2019087"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-24T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Oklahoma City Thunder received forward Isaiah Roby from Dallas Mavericks.",
+      "TEAM_ID": 1610612760,
+      "PLAYER_ID": 1629676,
+      "Additional_Sort": 1610612742,
+      "GroupSort": "Trade 2019087"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-21T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Portland Trail Blazers received forward Wenyen Gabriel from Sacramento Kings.",
+      "TEAM_ID": 1610612757,
+      "PLAYER_ID": 1629117,
+      "Additional_Sort": 1610612758,
+      "GroupSort": "Trade 2019083"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-21T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Portland Trail Blazers received forward Caleb Swanigan from Sacramento Kings.",
+      "TEAM_ID": 1610612757,
+      "PLAYER_ID": 1628403,
+      "Additional_Sort": 1610612758,
+      "GroupSort": "Trade 2019083"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-21T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Portland Trail Blazers received forward Trevor Ariza from Sacramento Kings.",
+      "TEAM_ID": 1610612757,
+      "PLAYER_ID": 2772,
+      "Additional_Sort": 1610612758,
+      "GroupSort": "Trade 2019083"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-21T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Sacramento Kings received guard Kent Bazemore from Portland Trail Blazers.",
+      "TEAM_ID": 1610612758,
+      "PLAYER_ID": 203145,
+      "Additional_Sort": 1610612757,
+      "GroupSort": "Trade 2019083"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-21T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Sacramento Kings received forward Anthony Tolliver from Portland Trail Blazers.",
+      "TEAM_ID": 1610612758,
+      "PLAYER_ID": 201229,
+      "Additional_Sort": 1610612757,
+      "GroupSort": "Trade 2019083"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-16T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Atlanta Hawks received guard Treveon Graham from Minnesota Timberwolves.",
+      "TEAM_ID": 1610612737,
+      "PLAYER_ID": 1626203,
+      "Additional_Sort": 1610612750,
+      "GroupSort": "Trade 2019082"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-16T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Atlanta Hawks received guard Jeff Teague from Minnesota Timberwolves.",
+      "TEAM_ID": 1610612737,
+      "PLAYER_ID": 201952,
+      "Additional_Sort": 1610612750,
+      "GroupSort": "Trade 2019082"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2020-01-16T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Minnesota Timberwolves received guard Allen Crabbe from Atlanta Hawks.",
+      "TEAM_ID": 1610612750,
+      "PLAYER_ID": 203459,
+      "Additional_Sort": 1610612737,
+      "GroupSort": "Trade 2019082"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2019-12-23T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Cleveland Cavaliers received guard Dante Exum from Utah Jazz.",
+      "TEAM_ID": 1610612739,
+      "PLAYER_ID": 203957,
+      "Additional_Sort": 1610612762,
+      "GroupSort": "Trade 2019077"
+    },
+    {
+      "Transaction_Type": "Trade",
+      "TRANSACTION_DATE": "2019-12-23T00:00:00",
+      "TRANSACTION_DESCRIPTION": "Utah Jazz received guard Jordan Clarkson from Cleveland Cavaliers.",
+      "TEAM_ID": 1610612762,
+      "PLAYER_ID": 203903,
+      "Additional_Sort": 1610612739,
+      "GroupSort": "Trade 2019077"
+    }
+  ]
+}
